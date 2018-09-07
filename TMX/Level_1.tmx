@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="23" height="25" tilewidth="32" tileheight="32" nextobjectid="80">
+ <tileset firstgid="1" name="RPG_Tactics_Level_1" tilewidth="32" tileheight="32" tilecount="575" columns="23">
+  <image source="RPG_Tactics_Level_1.png" width="736" height="800"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="23" height="25">
+  <data encoding="base64" compression="zlib">
+   eJyN1WXMFmQUBmD46O7u7i4J6U4BpbtEFBDp7u6WDumS7u5O6ZZSULrT65uv/3RzO9fOsz1n9987ZIgQIYIIRWjCEJZwhCcCEYlEZKIQlWhEJwYxiUVs4hCXeMQnAQlJRGKSkJRkJCcFKUlFatKQlnSkJwMZyURmspCVbGQnBznJRW7ykJd8fEZ+ClCQQgGFKUJRilGcEpSkFKUpQ1nKUZ4KVKQSlanCF1SlGtUDulCDmtSiNnWoSz3q04CGNKIxTWhKM5rTgq9pyTe0CgjObk0b2vI97fiB9nSgI53oHLjvSje604Oe9KI3fehLP/ozgIEMYjBDGMowhjOCkYxiNGMYyzjGM4GJTGIyU5gaMI3pzGAms5jNHObyE/OYzwIWsojFLGEpy1jOClYGclexmjWsZR3r2cBGNrGZLWxlG9vZwU52sZs97GUf+znAQQ5xmCMc5RjHOcFJTnGaM/zCWc5xngtc5BKXucJVrnGdG9zkV25xmzvc5R6/8Tv3ecAf/MlDHvGYJzzlGc95wUte8Zo3vOUd7/nARz4RIqQhiFCEJgxhCUd4IhCRSEQmClGJRnRiEJNYxCYOcYlHfBKQkEQkJglJSUZyUpCSVKQmDWlJR3oykJFMZCYLWclGdnKQk1zkJg95ycdn5KcABSnE5xSmCEUpRnFKUJJSlKYMZSlHeSpQkUpUpgpfUJVqVOdLvqIGNalFbepQl3rUpwENaURjmtCUZjSnBb1oyTe04lu+ozVtaMv3tOMH2tOBjnSiM13oSje604Oegeze9KEv/ejPAAYyiMEMYSjDGM4IRjKK0YxhLOMYzwQmMonJ/MgUpjKN6cxgJrOYzRzm8hPzmM8CFrKIxSxhKctYzgp+ZiWrWM0a1rKO9WxgI5vYzBa2so3t7GAnu9jNHvayj/0c4CCHOMwRjnKM45zgJKc4zRl+4SznOM8FLnKJy1zhKte4zg1u8iu3uM0d7nIvkB2cd58HgXewhzziMU94yjOe84KXvOI1b3jLO97zgY98Irj4gzsiyA5FaMIQlnCEJwIRiURkohCVaEQnBjGJRWziEJd4gewEdkISkZgkJCUZyUlBSlKRmjSkJR3pg/7ux3/zT7f91///8Re6zA0l
+  </data>
+ </layer>
+ <objectgroup name="Collision Layer">
+  <object id="30" name="LeftWall" type="BoxCollider" x="0" y="0" width="32" height="800"/>
+  <object id="34" name="TopLeftWall" type="BoxCollider" x="32" y="0" width="288" height="64"/>
+  <object id="36" name="Exit" type="Trigger" x="320" y="0" width="64" height="32"/>
+  <object id="39" name="TopRightWall" type="BoxCollider" x="388" y="0" width="316" height="64"/>
+  <object id="40" name="RightWall" type="BoxCollider" x="704" y="0" width="32" height="800"/>
+  <object id="41" name="TopLeftBlocks" type="BoxCollider" x="128" y="128" width="352" height="32"/>
+  <object id="42" name="TopRightBlocks" type="BoxCollider" x="480" y="64" width="128" height="32"/>
+  <object id="43" name="BridgePillar3" type="BoxCollider" x="256" y="320" width="32" height="32"/>
+  <object id="44" name="BridgePillar4" type="BoxCollider" x="128" y="320" width="32" height="32"/>
+  <object id="45" name="BridgePillar2" type="BoxCollider" x="447" y="320" width="32" height="32"/>
+  <object id="46" name="BridgePillar1" type="BoxCollider" x="576" y="320" width="32" height="32"/>
+  <object id="48" name="BottomLeftCollider" type="BoxCollider" x="32" y="705" width="160" height="96"/>
+  <object id="49" name="BottomRightWall" type="BoxCollider" x="255" y="704" width="448" height="96"/>
+  <object id="61" name="LeftUpperBlocks" type="LineCollider" x="128" y="160" width="1" height="128"/>
+  <object id="62" name="BottomBridge" type="LineCollider" x="128" y="320" width="480" height="1"/>
+  <object id="63" name="TopBridge" type="LineCollider" x="128" y="288" width="480" height="1"/>
+  <object id="64" name="LeftLowerBlocks" type="LineCollider" x="128" y="352" width="1" height="352"/>
+  <object id="66" name="MiddleLeftBlock" type="LineCollider" x="320" y="480" width="1" height="224"/>
+  <object id="67" name="MiddleTopBlocks" type="LineCollider" x="320" y="480" width="96" height="1"/>
+  <object id="69" name="MiddleRightUpperBlocks" type="LineCollider" x="416" y="480" width="1" height="64"/>
+  <object id="70" name="MiddleRightLowerBlocks" type="LineCollider" x="416" y="576" width="1" height="64"/>
+  <object id="72" name="BottomBlocks" type="LineCollider" x="416" y="640" width="192" height="1"/>
+  <object id="74" name="RightLowerBlocks" type="LineCollider" x="608" y="352" width="1" height="288"/>
+  <object id="76" name="RightUpperBlocks" type="LineCollider" x="608" y="96" width="1" height="192"/>
+  <object id="78" name="TopBlocks" type="LineCollider" x="480" y="96" width="1" height="32"/>
+ </objectgroup>
+</map>

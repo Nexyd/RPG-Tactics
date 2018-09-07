@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/CB_Checked.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/CB_Checked_HL.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/CB_Unchecked.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/CB_Unchecked_HL.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/ConfigScreen.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/Cursors.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/HelpScreen.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/MainScreen.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/RestoreDefaults.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/RestoreDefaults_HL.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/SoundDisabled.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/SoundDisabled_HL.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/SoundEnabled.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/SoundEnabled_HL.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/SoundSlideBar.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/SoundSlideBar_HL.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/SoundSlidePointer.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/SoundSlidePointer_HL.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/SpeedFast.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/SpeedFast_HL.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/SpeedMax.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/SpeedMax_HL.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/SpeedNormal.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/MainMenuImages/SpeedNormal_HL.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Characters/Faces/Joe.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Characters/Joe.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Directions/BendedDownRight.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Directions/BendedLeftDown.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Directions/BendedRightUp.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Directions/BendedUpLeft.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Directions/DownArrow.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Directions/Horizontal.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Directions/InitialDown.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Directions/InitialLeft.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Directions/InitialRight.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Directions/InitialUp.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Directions/LeftArrow.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Directions/RightArrow.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Directions/UpArrow.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Directions/Vertical.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Levels/Level_1.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/AttackableTile.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/Cursor.png</File>
+    <File>D:/Proyectos Programación/C#/MonoGame/Windows/Basic/RPG_Tactics/RPG_Tactics/Content/GameImages/MovableTile.png</File>
+  </SourceFiles>
+</SourceFileCollection>
